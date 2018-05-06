@@ -1,0 +1,4 @@
+[[redirects]]
+  from = "/*"
+  to = "https://wiki.gslin.org/wiki/Let%27s_Encrypt"
+  status = 302
